@@ -5,6 +5,6 @@
 
 - 🌱 I’m currently learning **C++, Rust and fully finishing C#**
 
-- 📫 How to reach me **diamond#8169** // **https://discord.gg/6SHGpHgXAe**
+- 📫 How to reach me **diamond#8169** // **discord.gg/6SHGpHgXAe**
 
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=0x98a&show_icons=true&theme=dark&locale=en" alt="0x98a" /></p>
