@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://discord.gg/cZkqyaRkb6">
-    <img src="https://cdn.discordapp.com/attachments/825501551350775828/836664087890362399/fdsafdsaf.png"></a>
+    <img src="https://cdn.discordapp.com/attachments/835652361715712020/842756715400134667/dsafsdaf.png"></a>
 </p>
 <p align="center">
     <a href="https://discordapp.com/users/835640492049170463">
