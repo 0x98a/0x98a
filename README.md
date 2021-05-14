@@ -1,9 +1,7 @@
-
-
-
 <p align="center">
   <a href="https://discord.gg/cZkqyaRkb6">
     <img src="https://cdn.discordapp.com/attachments/835652361715712020/842756715400134667/dsafsdaf.png"></a>
+</p>
 </p>
 <p align="center">
     <a href="https://discordapp.com/users/835640492049170463">
@@ -11,17 +9,14 @@
 </p>
 
 
-<h2 align="center">Programming languages that i mainly use/is learning.</h2>
+<h2 align="center">My main programming languages.</h2>
 <p align="center">
-  <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D"></a> 
-  <img alt="c++" src="https://img.shields.io/badge/-C++-090909?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC"></a> 
+  <img src="https://cdn.discordapp.com/attachments/835652361715712020/842758450962366480/asgsdag.png"></a>
 </p>
 
-<h2 align="center">My github profile stastictics.</h2>
+<h2 align="center">Profile Stats.</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x98a&show_icons=true&theme=dark&locale=en" alt="0x98a's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x98a&show_icons=true&theme=dark&locale=en/>
 <br />
 
 </pre>
-
-
