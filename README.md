@@ -16,7 +16,7 @@
 
 <h2 align="center">Profile Stats.</h2>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x98a&show_icons=true&theme=dark&locale=en/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0x98a&show_icons=true&theme=dark&locale=en/" alt="Rutkuli's github stats"/>>
 <br />
 
 </pre>
