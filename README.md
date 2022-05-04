@@ -11,7 +11,7 @@
 
 <h2 align="center">My main programming languages.</h2>
 <p align="center">
-  <img src="https://cdn.discordapp.com/attachments/835652361715712020/842758450962366480/asgsdag.png"></a>
+  <img src="https://cdn.discordapp.com/attachments/629573804795887640/971481428716060722/billederv2.png"></a>
 </p>
 
 <h2 align="center">Profile Stats.</h2>
