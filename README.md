@@ -1,12 +1,4 @@
-<h1 align="left">Hello, I'm Diamojd</h1>
-
-###
-
-<p align="left">My name is ... and I'm a ..., from ....</p>
-
-###
-
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<h1 align="left">Hello, I'm Diamond</h1>
 
 ###
 
