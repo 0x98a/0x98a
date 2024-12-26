@@ -2,8 +2,7 @@
 
 ###
 
-<p align="left">Im currently focused on web development using Next.JS, Typescript & Svelte while taking my degree in computer science & programming in school</p>
-
+<p align="left">I'm currently focused on web development using Next.JS, Typescript & Svelte while taking my degree in computer science & programming in school</p>
 
 ###
 
